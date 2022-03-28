@@ -1,1 +1,1 @@
-# C-
+# Universitātes lekciju uzdevumi vai mājasdarbi.
