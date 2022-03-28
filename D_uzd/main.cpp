@@ -1,6 +1,6 @@
 /*******************************************
 
-D6. Izveidot klasi, kurā glabājas masīvs ar sakitliskām vērtībām garumā 5.Klasei izveidot metodes :konstruktors, destruktors, IsEmpty, enqueue, dequeue, Count.
+D6. Izveidot klasi, kurā glabājas masīvs ar sakitliskām vērtībām garumā 5. Klasei izveidot metodes :konstruktors, destruktors, IsEmpty, enqueue, dequeue, Count.
 *******************************************/
 #include "program.h"
 #include <iostream>
